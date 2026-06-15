@@ -20,7 +20,7 @@ Instead of just storing solutions, I focus on:
 ✅ Writing clean code  
 ✅ Learning optimized approaches  
 ✅ Improving problem-solving skills  
-✅ Maintaining consistency every day
+✅ Maintaining consistency
 
 ---
 
