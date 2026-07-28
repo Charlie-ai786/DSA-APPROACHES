@@ -135,4 +135,16 @@ Instead of just storing solutions, I focus on:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
