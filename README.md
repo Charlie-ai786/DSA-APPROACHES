@@ -125,6 +125,7 @@ Instead of just storing solutions, I focus on:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -147,4 +149,13 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Math
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
