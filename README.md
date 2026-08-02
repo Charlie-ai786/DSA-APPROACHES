@@ -133,6 +133,7 @@ Instead of just storing solutions, I focus on:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@ Instead of just storing solutions, I focus on:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Instead of just storing solutions, I focus on:
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -172,4 +175,12 @@ Instead of just storing solutions, I focus on:
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
