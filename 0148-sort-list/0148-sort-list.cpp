@@ -19,7 +19,7 @@ public:
         }
         return slow;
     }
-public:
+
     ListNode* mergell(ListNode* list1,ListNode* list2){
         if(list1==NULL) return list2;
         if(list2==NULL) return list1;
@@ -42,7 +42,7 @@ public:
         }
         return dummy->next;
     }
-public:
+    
     ListNode* sortList(ListNode* head) {
         if(head==NULL || head->next==NULL) return head;
         ListNode* middle=middleofll(head);
