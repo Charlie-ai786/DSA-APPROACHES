@@ -125,6 +125,7 @@ Instead of just storing solutions, I focus on:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0160-intersection-of-two-linked-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -134,6 +135,7 @@ Instead of just storing solutions, I focus on:
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
@@ -142,6 +144,7 @@ Instead of just storing solutions, I focus on:
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
