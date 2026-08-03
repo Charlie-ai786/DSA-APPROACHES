@@ -168,6 +168,7 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -191,12 +192,23 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
