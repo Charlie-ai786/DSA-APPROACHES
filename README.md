@@ -128,6 +128,7 @@ Instead of just storing solutions, I focus on:
 | [0160-intersection-of-two-linked-lists](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0160-intersection-of-two-linked-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Instead of just storing solutions, I focus on:
 | [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Instead of just storing solutions, I focus on:
 | ------- |
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
