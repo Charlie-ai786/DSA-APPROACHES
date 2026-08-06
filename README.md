@@ -133,6 +133,7 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
@@ -219,4 +220,8 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
