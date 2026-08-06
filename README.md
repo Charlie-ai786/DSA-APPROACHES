@@ -172,6 +172,7 @@ Instead of just storing solutions, I focus on:
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -214,4 +215,8 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
