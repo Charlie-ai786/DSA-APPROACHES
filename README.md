@@ -139,6 +139,7 @@ Instead of just storing solutions, I focus on:
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
@@ -149,6 +150,7 @@ Instead of just storing solutions, I focus on:
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -226,4 +228,9 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
