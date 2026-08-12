@@ -126,6 +126,7 @@ Instead of just storing solutions, I focus on:
 | [0141-linked-list-cycle](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0160-intersection-of-two-linked-lists) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -208,6 +209,7 @@ Instead of just storing solutions, I focus on:
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -257,4 +259,8 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1140-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
