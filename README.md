@@ -180,6 +180,7 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
@@ -217,6 +218,7 @@ Instead of just storing solutions, I focus on:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
@@ -247,6 +249,7 @@ Instead of just storing solutions, I focus on:
 | [0203-remove-linked-list-elements](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -267,4 +270,8 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
