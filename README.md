@@ -157,6 +157,7 @@ Instead of just storing solutions, I focus on:
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -179,6 +180,7 @@ Instead of just storing solutions, I focus on:
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
@@ -275,4 +277,12 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
