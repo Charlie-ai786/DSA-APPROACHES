@@ -1,11 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int,int> mpp;
-        for(int i:nums){
-            mpp[i]++;
+        int ans=0;
+        for(int x:nums){
+            ans=ans^x;
         }
-        for(auto &num:mpp){if(num.second==1) return num.first;}
-        return 0;
+        return ans;
     }
 };
