@@ -167,6 +167,7 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0148-sort-list) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -216,6 +217,7 @@ Instead of just storing solutions, I focus on:
 | [0877-stone-game](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/1406-stone-game-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/3731-find-missing-elements) |
@@ -287,4 +289,8 @@ Instead of just storing solutions, I focus on:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Charlie-ai786/DSA-APPROACHES/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
